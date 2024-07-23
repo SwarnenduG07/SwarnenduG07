@@ -6,7 +6,6 @@ FullStack Developer
 
 I'm a FullStack Dev from India who is building cool projects and solving real world problem with code. I am open for collaboration. And I am open to work in any timezones
 
-* 🌍  I'm based in India
 * ✉️  You can contact me at [swarnendughosh988@gmail.com](mailto:swarnendughosh988@gmail.com)
 * 🚀  I'm currently working on [FluxCraft](http://flux-craft.vercel.app)
 * 🧠  I'm learning Web3 Dev with Rust and Solidity
