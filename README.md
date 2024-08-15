@@ -7,7 +7,7 @@ FullStack Developer
 I'm a FullStack Dev who is building cool projects and solving real world problem with code. I am open for collaboration &  I am open to work in any timezones
 
 * ✉️  You can contact me at [swarnendughosh988@gmail.com](mailto:swarnendughosh988@gmail.com)
-* 🚀  I'm currently working on [Image-Magic](https://image-magic.vercel.app/)
+* 🚀  I'm currently working on [Indiana](https://indiana-one.vercel.app/)
 * 🧠  I'm learning Web3 Dev with Rust and Solidity
 * 🤝  I'm open to collaborating on FullStack + web3  + Gpt wrapper Projects 
   
