@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Developer
 -------------------
 
-I'm a FullStack Dev who is building cool projects and solving real world problem with code. I am open for collaboration &  I am open to work in any timezones
+I'm a FullStack Dev who is building cool projects and solving real world problem with code. I am open for collaboration.
 
 * ✉️  You can contact me at [swarnendughosh988@gmail.com](mailto:swarnendughosh988@gmail.com)
 * 🚀  I'm currently working on [Indiana](https://indiana-one.vercel.app/)
