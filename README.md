@@ -7,7 +7,7 @@ FullStack Web Developer
 I'm a FullStack Dev who is building cool projects and solving real world problem with code. I am open for collaboration. 
 
 * ✉️  You can contact me at [swarnendughosh988@gmail.com](mailto:swarnendughosh988@gmail.com)
-* 🚀  I'm currently working on [Indiana](https://indiana-one.vercel.app/)
+* 🚀  I'm currently working on [Market-Fusion](https://marketfusion.vercel.app/)
 * 🧠  I'm learning Web3 Dev with Rust and Solidity
 * 🤝  I'm open to collaborating on FullStack + web3  + Gpt wrapper Projects 
   
