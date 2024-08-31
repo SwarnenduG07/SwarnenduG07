@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Swarnendu Ghosh
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This side Swarnendu 
 =======================================================================================================================================
 
-FullStack Web Developer
+Full-Stack Web Developer
 -------------------
 
-I'm a FullStack Dev who is building cool projects and solving real world problem with code. I am open for collaboration. 
+I'm a FullStack Dev who is building cool projects and solving real world problem with code. I am open for collaboration. I am comfortable with MERN with DevOps.
 
 * ✉️  You can contact me at [swarnendughosh988@gmail.com](mailto:swarnendughosh988@gmail.com)
 * 🚀  I'm currently working on [Market-Fusion](https://marketfusion.vercel.app/)
