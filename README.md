@@ -33,12 +33,12 @@ I'm a FullStack Dev who is building , breaking, experimenting , learning & solvi
 
 <h2>DevOps</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=docker,k8s,grafana,prometheus,terraform,aws,gcp,cloudflare)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=argocd,helm)
+[![My Skills](https://skillicons.dev/icons?i=docker,k8s,grafana,prometheus,terraform)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,digitalocean,gcp,cloudflare,argocd,helm)
 
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,kafka,linux,githubactions,postman,bun)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo,newrelic)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim,androidstudio,vscode,git,kafka,linux,githubactions,postman,bun)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo,newrelic)
 
 # 📊 GitHub Stats:
 
