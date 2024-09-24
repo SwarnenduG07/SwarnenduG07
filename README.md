@@ -21,7 +21,7 @@ I'm a FullStack Dev who is building , breaking, experimenting , learning & solvi
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,rust,java,solidity,go,bash,python,c,cpp,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,rust,java,kotlin,solidity,go,bash,python,c,cpp,lua)](https://skillicons.dev)
 
 <h2>Frameworks & Library</h2>
   
@@ -38,7 +38,7 @@ I'm a FullStack Dev who is building , breaking, experimenting , learning & solvi
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,kafka,linux,githubactions,postman,bun)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,kafka,linux,githubactions,postman,bun)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo,newrelic)
 
 # 📊 GitHub Stats:
 
