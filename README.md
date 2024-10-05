@@ -15,7 +15,7 @@ I'm a FullStack Dev who is building , breaking, experimenting , learning & solvi
 ###  Skills
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/swarnenduG07) 
 
 # 💻 Tech Stack:
 
