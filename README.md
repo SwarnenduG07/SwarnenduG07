@@ -28,7 +28,7 @@ I'm a FullStack Dev who is building , breaking, experimenting , learning & solvi
 
 <h2>Databases/ORM</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,prisma,myaql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,prisma,myaql,sqlite)](https://skillicons.dev)
 
 <h2>DevOps</h2>
   
