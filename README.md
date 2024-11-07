@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This side Swarnendu 
 =======================================================================================================================================
 
-Full-Stack Web Developer
+Full-Stack  Developer
 ------------------------
 
 I'm a FullStack Dev who is building,breaking, experimenting , learning & solving real world problem with code. I am open for collaboration.
 
 * ✉️  You can contact me at [swarnendughosh988@gmail.com](mailto:swarnendughosh988@gmail.com)
 * 🚀  I'm currently working on [Market-Fusion](https://marketfusion.vercel.app/)
-* 🤝  I'm open to collaborating on FullStack + web3  + DevOps
+* 🤝  I'm open to collaborating on FullStack + web3
   
 
 ###  Skills
