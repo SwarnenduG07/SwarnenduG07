@@ -8,6 +8,7 @@ I'm a FullStack Dev who is building,breaking, experimenting , learning & solving
 
 * ✉️  You can contact me at [swarnendughosh988@gmail.com](mailto:swarnendughosh988@gmail.com)
 * 🚀  I'm currently working on [Market-Fusion](https://marketfusion.vercel.app/)
+* 🔗  You see my works on [portfolio](https://swarnendu.me)
 * 🤝  I'm open to collaborating on FullStack + web3
   
 
