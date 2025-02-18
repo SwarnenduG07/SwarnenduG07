@@ -7,9 +7,10 @@ Full-Stack Developer
 I'm a FullStack Dev who is building,breaking, experimenting , learning & solving real world problem with code. I am open for collaboration.
 
 * ✉️  You can contact me at [swarnendughosh988@gmail.com](mailto:swarnendughosh988@gmail.com)
-* 🚀  I'm currently working on [Market-Fusion](https://marketfusion.vercel.app/)
+* 🚀  I'm currently working on [Market-Fusion](https://swarnendu.me)
 * 🔗  You see my works on [portfolio](https://swarnendu.me)
 * 🤝  I'm open to collaborating on FullStack + web3
+* Learning web3
   
 
 ###  Skills
@@ -21,7 +22,7 @@ I'm a FullStack Dev who is building,breaking, experimenting , learning & solving
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,rust,java,kotlin,solidity,go,bash,python,c,cpp,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,rust,solidity,java,go,bash,python,lua)](https://skillicons.dev)
 
 <h2>Frameworks & Library</h2>
   
