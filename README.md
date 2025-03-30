@@ -30,7 +30,7 @@ I'm a FullStack Dev who is building,breaking, experimenting , learning & solving
 
 <h2>Databases/ORM</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,prisma,sqlite,sql,vectordb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,prisma,sqlite,sql)](https://skillicons.dev)
 
 <h2>DevOps</h2>
   
