@@ -22,7 +22,7 @@ I'm a FullStack Dev who is building,breaking, experimenting , learning & solving
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,pythob,rust,solidity,go,bash,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,rust,solidity,go,bash,lua)](https://skillicons.dev)
 
 <h2>Frameworks & Library</h2>
   
