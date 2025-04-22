@@ -26,7 +26,7 @@ I'm a FullStack Dev who is building,breaking, experimenting , learning & solving
 
 <h2>Frameworks & Library</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,actix,fastapi,react,nextjs,tailwindcss,jest,vitest,threejs,pytorch)](https://skillicons.dev)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=langchain,recoil,reactnative,authjs,graphql,trpc,hardhat,)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,actix,fastapi,react,nextjs,electron,tailwindcss,jest,vitest,threejs,pytorch)](https://skillicons.dev)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=langchain,recoil,reactnative,authjs,graphql,trpc,hardhat,webrtc)
 
 <h2>Databases/ORM</h2>
   
